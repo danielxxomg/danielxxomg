@@ -4,7 +4,9 @@
 
 <br/>
 
-<img src="https://media.tenor.com/4cu_3mwXb9QAAAAi/csm-chainsaw-man-pochita.gif" width="200" alt="Pochita" />
+<img src="https://c.tenor.com/-MOsJIIX_F4AAAAd/tenor.gif"
+     alt="Pochita caminando pixel"
+     width="200">
 
 ---
 
