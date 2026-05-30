@@ -124,31 +124,39 @@ PWA Offline-First for monitoring and controlling a smart irrigation system. Real
 
 ---
 
-## Modern Tools I'm Watching
+## Modern Tools — Ranked by Real-World Impact
 
-Tools that are genuinely *en auge* — not just established incumbents, but the ones reshaping how we build in 2026:
+Not by stars, not by hype — by how much they prove you're actually current in 2026.
 
-<div align="center">
+### 🥇 Tier 1 — Industry Standards (if you don't know these, you're behind)
 
-| Category | Tool | Why It Matters |
-|----------|------|----------------|
-| **Text Layout** | [pretext](https://github.com/chenglou/pretext) | Multiline text measurement without DOM reflow. Pure arithmetic. The API design is beautiful. |
-| **Bundler** | [Rolldown](https://github.com/rolldown/rolldown) | Rust-based bundler from the Vite team. Unifying dev (esbuild) and prod (Rollup). Reached 1.0 May 2026. |
-| **Linter** | [Oxlint](https://github.com/oxc-project/oxc) | Rust-based linter from the Oxc stack. Extreme speed for large monorepos. Modular — use alongside ESLint. |
-| **Bundler** | [Rspack](https://github.com/web-infra-dev/rspack) | Rust-based Webpack-compatible bundler. The real migration path for slow Webpack builds. |
-| **Validation** | [Valibot](https://github.com/fabian-hiller/valibot) | Modular Zod alternative with superior tree-shaking. Winning in edge runtimes where every KB counts. |
-| **Validation** | [ArkType](https://github.com/arktypeio/arktype) | Schemas that feel exactly like TypeScript expressions. Complex type modeling with high runtime performance. |
-| **Framework** | [Hono](https://github.com/honojs/hono) | Ultra-lightweight edge-ready web framework. Runs on Node, Bun, Deno, Cloudflare Workers. |
-| **Framework** | [Astro](https://github.com/withastro/astro) | Islands architecture — ships zero JS by default. The gold standard for content-site performance. |
-| **UI** | [shadcn/ui](https://github.com/shadcn-ui/ui) | Copy-paste components you own. The dominant UI paradigm of 2025-2026. |
-| **UI** | [Base UI](https://github.com/mui/base-ui) | Headless primitives from the MUI team. shadcn/ui now officially supports it. |
-| **ORM** | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | SQL-first, zero codegen, ~7KB. The ORM for serverless and edge. |
-| **Desktop** | [Tauri 2.x](https://github.com/tauri-apps/tauri) | Cross-platform desktop + mobile from one codebase. 10x smaller than Electron. |
-| **CSS** | [Lightning CSS](https://github.com/parcel-bundler/lightningcss) | CSS processor >100x faster than JS alternatives. |
-| **AI Tools** | [Claude Code](https://github.com/anthropics/claude-code) | Terminal-native agentic coding. Multi-file refactoring through natural language. |
-| **AI Protocol** | [MCP](https://github.com/modelcontextprotocol/servers) | The "USB-C port for AI" — standardizes how agents connect to tools. Linux Foundation governed. |
+| Tool | ⭐ | Status | Replaces | Why It Matters |
+|------|-----|--------|----------|----------------|
+| [MCP](https://github.com/modelcontextprotocol/servers) | N/A | Industry std | Custom AI integrations | "USB-C for AI." Linux Foundation governed. 14k+ servers. Every IDE/agent uses it. |
+| [shadcn/ui](https://github.com/shadcn-ui/ui) | 115k | v4.8 stable | MUI, Chakra, Ant Design | Copy-dont-import. You own the code. The default React stack of 2026. |
+| [Tauri 2](https://github.com/tauri-apps/tauri) | 107k | v2.11 stable | Electron | 10x smaller bundles. Desktop + mobile from one codebase. Rust backend. |
+| [OpenCode](https://github.com/opencode-ai/opencode) | 160k+ | v1.x stable | Cursor, Copilot Chat | Terminal-first, 75+ models, BYOK. 7.5M monthly active devs. SST team. |
+| [Astro](https://github.com/withastro/astro) | 59.7k | v6.4 stable | Gatsby, 11ty | Zero JS default. Cloudflare acquired. The content web standard. |
 
-</div>
+### 🥈 Tier 2 — The Rust Revolution (replacing JS tools RIGHT NOW)
+
+| Tool | ⭐ | Status | Replaces | Why It Matters |
+|------|-----|--------|----------|----------------|
+| [Oxlint](https://github.com/oxc-project/oxc) | 21.4k | v1.66 prod | ESLint | 50-100x faster. Shopify, Airbnb, Mercedes-Benz using it. |
+| [Rolldown](https://github.com/rolldown/rolldown) | 13.6k | 1.0 stable | Rollup + esbuild | Default in Vite 8. 10-30x faster than Rollup. |
+| [Rspack](https://github.com/web-infra-dev/rspack) | 12.7k | v2.0 stable | webpack | 5-10x faster. Same config, same plugins. ByteDance-backed. |
+| [Lightning CSS](https://github.com/parcel-bundler/lightningcss) | 7.6k | v1.32 stable | PostCSS + autoprefixer + cssnano | Single Rust binary. >100x faster than JS CSS tools. |
+
+### 🥉 Tier 3 — High-Impact Specialized Tools
+
+| Tool | ⭐ | Status | Replaces | Why It Matters |
+|------|-----|--------|----------|----------------|
+| [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | 34.6k | v1.0 RC | Prisma, TypeORM | SQL-first, zero codegen, ~7KB. Edge-native. No cold start issues. |
+| [Hono](https://github.com/honojs/hono) | 30.7k | v4.x stable | Express, Koa | 14kB, Web Standards. Runs on Node, Bun, Deno, Workers, Lambda. |
+| [Pretext](https://github.com/chenglou/pretext) | 47.9k | Beta | DOM measurement | 300-600x faster than `getBoundingClientRect`. Pure arithmetic. |
+| [Turso](https://github.com/tursodatabase/libsql) | 19k | Beta (Rust) | SQLite at scale | Edge-native SQLite replicas. Embedded replication + vector search. |
+| [ArkType](https://github.com/arktypeio/arktype) | 7.8k | v2.2 stable | Zod, Yup | 1:1 type fidelity. Faster than Zod in hot paths. |
+| [Base UI](https://github.com/mui/base-ui) | 9.7k | v1.x stable | Radix UI | Headless from MUI team. shadcn/ui supports both now. |
 
 ---
 
