@@ -48,7 +48,7 @@ Digital consent for a trampoline park. Kiosk-first, OTP-validated, offline-safe.
 
 **Stack:** Next.js 16 · Bun · Firebase · Zod · Playwright
 
-[→ Repo](https://github.com/danielxxomg/jumping_park_app)
+[→ Repo](https://github.com/danielxxomg/jumping_park_app) · [→ Live](https://www.jumpingpark.lat/) · [→ Case Study](docs/portfolio/CASE_STUDY.md)
 
 </td>
 <td width="33%">
@@ -59,7 +59,7 @@ Smart irrigation PWA. Real-time sensors, offline-first, push notifications.
 
 **Stack:** TypeScript · Next.js · React · Firebase · Arduino/IoT
 
-[→ Repo](https://github.com/danielxxomg/uniminuto-riego-pwa)
+[→ Repo](https://github.com/danielxxomg/uniminuto-riego-pwa) · [→ Live](https://uniminuto-riego-pwa.vercel.app/) · [→ Case Study](docs/portfolio/CASE_STUDY.md)
 
 </td>
 <td width="33%">
@@ -70,7 +70,7 @@ AI-assisted Mermaid diagram editor and visualizer.
 
 **Stack:** TypeScript · Vite · Tailwind · Supabase
 
-[→ Repo](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer)
+[→ Repo](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer) · [→ Live](https://cyberpunk-mermaid-visualizer.vercel.app/) · [→ Case Study](docs/portfolio/CASE_STUDY.md)
 
 </td>
 </tr>
@@ -136,17 +136,9 @@ AI-assisted Mermaid diagram editor and visualizer.
 
 ---
 
-## Now Playing
+## Outside Code
 
-<div align="center">
-
-<a href="https://music.youtube.com/watch?v=SJidMDWPppI&si=iK_Y6DM0wbs4o0rY">
-  <img src="https://img.youtube.com/vi/SJidMDWPppI/maxresdefault.jpg" alt="BANG BANG BANG - Chainsaw Man" width="420" style="border-radius: 8px;" />
-</a>
-
-**BANG BANG BANG** — Chainsaw Man · ft. @starxrayne & @JamsDX
-
-</div>
+<sub><a href="https://music.youtube.com/watch?v=SJidMDWPppI&si=iK_Y6DM0wbs4o0rY">🎵 BANG BANG BANG</a> — Chainsaw Man · ft. @starxrayne & @JamsDX</sub>
 
 ---
 
