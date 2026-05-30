@@ -1,63 +1,217 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFA500&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=Hello+World%2C+I'm+Daniel.;Software+Engineer+%7C+Cyber-Enthusiast;I+use+Arch%2C+by+the+way.;Clean+Code.+Clean+Disk.+Clear+Mind." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=danielxxomg&fontSize=70&fontColor=FFA500&fontAlignY=38&desc=Full-Stack%20Builder%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=60&descSize=15&descColor=94a3b8&animation=fadeIn&fontFamily=Orbitron" />
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=2000&color=FFA500&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Vue.js+%7C+Nuxt+%7C+Next.js+%7C+Rust+%7C+TypeScript;Building+offline-first+apps+that+don't+break;Currently+exploring+text+layout+engines+%26+IoT)](https://github.com/danielxxomg)
 
-<img src="https://c.tenor.com/-MOsJIIX_F4AAAAd/tenor.gif"
-     alt="Pochita caminando pixel"
-     width="200">
+![](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&labelColor=0f172a)
+![](https://img.shields.io/badge/Explorer-ON-FFA500?style=for-the-badge&labelColor=0f172a)
+![](https://komarev.com/ghpvc/?username=danielxxomg&color=FFA500&style=for-the-badge&label=Visitors&labelColor=0f172a)
 
----
-
-### 👤 About Me
-
-**20 years old. Colombian 🇨🇴.**  
-Digital Minimalist & Performance Obsessed.  
-Building software that works & securing systems that matter.
+</div>
 
 ---
 
-### ⚡ The Arsenal
+## About
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFA500)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFA500)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFA500)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=FFA500)
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║  > Name       : Daniel Bello                                 ║
+║  > Handle     : danielxxomg                                  ║
+║  > Age        : 20 years                                     ║
+║  > Location   : 🇨🇴 Colombia                                 ║
+║  > University : UNIMINUTO — Computer Science                 ║
+║  > Focus      : Full-Stack · IoT · Performance               ║
+║  > OS         : CachyOS (Arch-based)                         ║
+║  > Status     : Building things that work offline ▮           ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFA500)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFA500)
-![GitHub](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=FFA500)
-![TablePlus](https://img.shields.io/badge/TablePlus-000000?style=for-the-badge&logo=tableplus&logoColor=FFA500)
+I build full-stack applications that solve real problems — not tutorial projects, not clones for the sake of cloning. Things that actually work, in production, for real users.
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=FFA500)
+What drives me: **I'm curious about everything.** I don't just use frameworks — I want to understand how they work under the hood. I explore new libraries, read source code for fun, and I'm always asking "what happens if I try this?"
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎢 Jumping Park
+
+Digital consent management for a trampoline park. Kiosk-first visitor flow with OTP validation, digital signatures, offline-safe replay, and an admin surface optimized for low Firestore cost.
+
+**Stack:** Next.js 16 · Bun · Firebase · Zod · Playwright
+
+**Highlights:**
+- OTP lifecycle with throttling & lockouts
+- Offline queue with IndexedDB replay
+- CSP security hardening with rollout flags
+- Cursor pagination + aggregate metrics
+- AI-SEO surface with JSON-LD
+
+[→ Repository](https://github.com/danielxxomg/jumping_park_app)
+
+</td>
+<td width="50%">
+
+### 🌱 Riego Inteligente (UNIMINUTO)
+
+PWA Offline-First for monitoring and controlling a smart irrigation system. Real-time sensor data, automated scheduling, and push notifications — designed for rural connectivity.
+
+**Stack:** TypeScript · Next.js · React · Firebase · Arduino/IoT
+
+**Highlights:**
+- Offline-first architecture
+- Real-time sensor monitoring
+- Push notification alerts
+- Precision agriculture IoT integration
+- Full UNIMINUTO graduation project
+
+[→ Repository](https://github.com/danielxxomg/uniminuto-riego-pwa)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
+
+<div align="center">
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Infra**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Design & Prototyping**
+
+![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Tools & Workflow**
+
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+**System**
+
+![CachyOS](https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=FFA500)
 ![Hyprland](https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=FFA500)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FFA500)
-![WireGuard](https://img.shields.io/badge/WireGuard-000000?style=for-the-badge&logo=wireguard&logoColor=FFA500)
-![Exodus](https://img.shields.io/badge/Exodus-000000?style=for-the-badge&logo=exodus&logoColor=FFA500)
+
+</div>
 
 ---
 
-### 📊 Stats
+## Modern Tools I'm Watching
 
-<img src="https://github-readme-stats.vercel.app/api?username=DANIELXXOMG2&show_icons=true&theme=transparent&bg_color=000000&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500&border_color=FFA500&hide_border=false" alt="GitHub Stats" />
+Tools that are genuinely *en auge* — not just established incumbents, but the ones reshaping how we build in 2026:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELXXOMG2&layout=compact&theme=transparent&bg_color=000000&title_color=FFA500&text_color=FFFFFF&border_color=FFA500&hide=html,css" alt="Top Languages" />
+<div align="center">
+
+| Category | Tool | Why It Matters |
+|----------|------|----------------|
+| **Text Layout** | [pretext](https://github.com/chenglou/pretext) | Multiline text measurement without DOM reflow. Pure arithmetic. The API design is beautiful. |
+| **Bundler** | [Rolldown](https://github.com/rolldown/rolldown) | Rust-based bundler from the Vite team. Unifying dev (esbuild) and prod (Rollup). Reached 1.0 May 2026. |
+| **Linter** | [Oxlint](https://github.com/oxc-project/oxc) | Rust-based linter from the Oxc stack. Extreme speed for large monorepos. Modular — use alongside ESLint. |
+| **Bundler** | [Rspack](https://github.com/web-infra-dev/rspack) | Rust-based Webpack-compatible bundler. The real migration path for slow Webpack builds. |
+| **Validation** | [Valibot](https://github.com/fabian-hiller/valibot) | Modular Zod alternative with superior tree-shaking. Winning in edge runtimes where every KB counts. |
+| **Validation** | [ArkType](https://github.com/arktypeio/arktype) | Schemas that feel exactly like TypeScript expressions. Complex type modeling with high runtime performance. |
+| **Framework** | [Hono](https://github.com/honojs/hono) | Ultra-lightweight edge-ready web framework. Runs on Node, Bun, Deno, Cloudflare Workers. |
+| **Framework** | [Astro](https://github.com/withastro/astro) | Islands architecture — ships zero JS by default. The gold standard for content-site performance. |
+| **UI** | [shadcn/ui](https://github.com/shadcn-ui/ui) | Copy-paste components you own. The dominant UI paradigm of 2025-2026. |
+| **UI** | [Base UI](https://github.com/mui/base-ui) | Headless primitives from the MUI team. shadcn/ui now officially supports it. |
+| **ORM** | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | SQL-first, zero codegen, ~7KB. The ORM for serverless and edge. |
+| **Desktop** | [Tauri 2.x](https://github.com/tauri-apps/tauri) | Cross-platform desktop + mobile from one codebase. 10x smaller than Electron. |
+| **CSS** | [Lightning CSS](https://github.com/parcel-bundler/lightningcss) | CSS processor >100x faster than JS alternatives. |
+| **AI Tools** | [Claude Code](https://github.com/anthropics/claude-code) | Terminal-native agentic coding. Multi-file refactoring through natural language. |
+| **AI Protocol** | [MCP](https://github.com/modelcontextprotocol/servers) | The "USB-C port for AI" — standardizes how agents connect to tools. Linux Foundation governed. |
+
+</div>
 
 ---
 
-### 🎧 Neural Link
+## Currently Exploring
 
-<img src="https://spotify-github-profile.kittinanx.com/api/spotify?background_color=000000&border_color=ff6b00&bar_color=ff6b00&bar_color_cover=false" alt="Spotify Now Playing" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFA500)](https://www.linkedin.com/in/daniel-sebastian-bello-188990129/)
+- 🔬 **[pretext](https://github.com/chenglou/pretext)** — Text layout engines. The idea of measuring text with pure arithmetic instead of `getBoundingClientRect` blew my mind.
+- 🦀 **Rust** — Systems programming. Understanding ownership and borrowing is changing how I think about JavaScript.
+- 📡 **IoT & Arduino** — After building the irrigation project, I'm hooked on the hardware/software boundary.
+- 🎨 **Google Stitch** — AI-powered UI prototyping. Using it to rapidly generate mockups and design directions before coding.
+- 🧪 **Whatever catches my eye** — I browse GitHub trending weekly, read source code, and break things for fun.
 
 ---
 
-*"Stay hungry. Stay foolish. Use Neovim."*
+## Stats
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=danielxxomg&theme=dark&hide_border=true&background=0f172a&stroke=FFA500&ring=FFA500&fire=ff6b6b&currStreakLabel=34d399&sideLabels=94a3b8&dates=94a3b8" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=danielxxomg&show_icons=true&theme=dark&bg_color=0f172a&hide_border=true&title_color=FFA500&icon_color=ff6b6b&text_color=e2e8f0" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielxxomg&layout=compact&theme=dark&bg_color=0f172a&hide_border=true&title_color=FFA500&text_color=e2e8f0" />
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=danielxxomg&theme=algolia&no-frame=true&margin-w=8&row=1" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielxxomg&bg_color=0f172a&color=FFA500&line=ff6b6b&point=34d399&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## Now Playing
+
+<div align="center">
+
+<a href="https://music.youtube.com/watch?v=SJidMDWPppI&si=iK_Y6DM0wbs4o0rY">
+  <img src="https://img.youtube.com/vi/SJidMDWPppI/maxresdefault.jpg" alt="BANG BANG BANG - Chainsaw Man" width="480" style="border-radius: 8px;" />
+</a>
+
+**BANG BANG BANG** — Chainsaw Man Song · ft. @starxrayne & @JamsDX
+
+![On Repeat](https://img.shields.io/badge/ON_REPEAT-ff6b6b?style=for-the-badge&labelColor=0f172a)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-sebastian-bello-188990129/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_bello_2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielbello.dev@gmail.com)
+![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-FFA500?style=for-the-badge&labelColor=0f172a)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=80&section=footer&animation=fadeIn" />
+
+<sub>// DANIEL · danielxxomg · BUILT WITH CURIOSITY FROM COLOMBIA 🇨🇴 //</sub>
 
 </div>
