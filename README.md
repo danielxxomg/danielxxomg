@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=danielxxomg&fontSize=70&fontColor=FFA500&fontAlignY=38&desc=Full-Stack%20Builder%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=60&descSize=15&descColor=94a3b8&animation=fadeIn&fontFamily=Orbitron" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=2000&color=FFA500&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Vue.js+%7C+Nuxt+%7C+Next.js+%7C+Rust+%7C+TypeScript;Building+offline-first+apps+that+don't+break)](https://github.com/danielxxomg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=2000&color=FFA500&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=TypeScript+%7C+Next.js+%7C+Vue%2FNuxt+%7C+Rust+%7C+IoT;Building+consent+platforms+%26+smart+irrigation+systems)](https://github.com/danielxxomg)
 
 ![](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&labelColor=0f172a)
 ![](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&labelColor=0f172a)
@@ -13,18 +13,16 @@
 
 ---
 
-## About
-
 ```bash
+$ cat /etc/about.conf
 ╔══════════════════════════════════════════════════════════════╗
-║  > Name       : Daniel Bello                                 ║
-║  > Handle     : danielxxomg                                  ║
-║  > Age        : 20 years                                     ║
-║  > Location   : 🇨🇴 Colombia                                 ║
-║  > University : UNIMINUTO — Computer Science                 ║
-║  > Focus      : Full-Stack · IoT · Performance               ║
-║  > OS         : CachyOS (Arch-based)                         ║
-║  > Status     : Building things that work offline ▮           ║
+║  Name       : Daniel Bello                                   ║
+║  Handle     : danielxxomg                                    ║
+║  Age        : 20                                             ║
+║  Location   : 🇨🇴 Colombia                                   ║
+║  University : UNIMINUTO — Computer Science                   ║
+║  Focus      : Full-Stack · IoT · Performance                 ║
+║  OS         : CachyOS (Arch-based)                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -38,7 +36,7 @@
 
 ### 🎢 Jumping Park
 
-Digital consent management for a trampoline park. Kiosk-first, OTP-validated, offline-safe.
+Digital consent for a trampoline park. Kiosk-first, OTP-validated, offline-safe.
 
 **Stack:** Next.js 16 · Bun · Firebase · Zod · Playwright
 
@@ -49,7 +47,7 @@ Digital consent management for a trampoline park. Kiosk-first, OTP-validated, of
 
 ### 🌱 Riego Inteligente
 
-PWA for smart irrigation monitoring. Real-time sensors, offline-first, push notifications.
+Smart irrigation PWA. Real-time sensors, offline-first, push notifications.
 
 **Stack:** TypeScript · Next.js · React · Firebase · Arduino/IoT
 
@@ -131,8 +129,6 @@ PWA for smart irrigation monitoring. Real-time sensors, offline-first, push noti
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danielxxomg&show_icons=true&theme=dark&bg_color=0f172a&hide_border=true&title_color=FFA500&icon_color=ff6b6b&text_color=e2e8f0" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielxxomg&layout=compact&theme=dark&bg_color=0f172a&hide_border=true&title_color=FFA500&text_color=e2e8f0" />
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=danielxxomg&theme=algolia&no-frame=true&margin-w=8&row=1" />
-
 </div>
 
 ---
@@ -157,7 +153,5 @@ PWA for smart irrigation monitoring. Real-time sensors, offline-first, push noti
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_bello_2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielbello.dev@gmail.com)
 ![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-FFA500?style=for-the-badge&labelColor=0f172a)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=60&section=footer&animation=fadeIn" />
 
 </div>
