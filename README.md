@@ -138,7 +138,15 @@ AI-assisted Mermaid diagram editor and visualizer.
 
 ## Outside Code
 
-<sub><a href="https://music.youtube.com/watch?v=SJidMDWPppI&si=iK_Y6DM0wbs4o0rY">🎵 BANG BANG BANG</a> — Chainsaw Man · ft. @starxrayne & @JamsDX</sub>
+<div align="center">
+
+<a href="https://music.youtube.com/watch?v=SJidMDWPppI&si=iK_Y6DM0wbs4o0rY">
+  <img src="https://img.youtube.com/vi/SJidMDWPppI/maxresdefault.jpg" alt="BANG BANG BANG - Chainsaw Man" width="420" style="border-radius: 8px;" />
+</a>
+
+**BANG BANG BANG** — Chainsaw Man · ft. @starxrayne & @JamsDX
+
+</div>
 
 ---
 
