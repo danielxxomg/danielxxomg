@@ -18,9 +18,9 @@ $ cat /etc/about.conf
 ╔══════════════════════════════════════════════════════════════╗
 ║  Name       : Daniel Bello                                   ║
 ║  Handle     : danielxxomg                                    ║
-║  Age        : 20                                             ║
+║  Role       : Full-Stack Developer                           ║
 ║  Location   : 🇨🇴 Colombia                                   ║
-║  University : UNIMINUTO — Computer Science                   ║
+║  University : UNIMINUTO — Software Development               ║
 ║  Focus      : Full-Stack · IoT · Performance                 ║
 ║  OS         : CachyOS (Arch-based)                           ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -28,11 +28,19 @@ $ cat /etc/about.conf
 
 ---
 
+## Currently Building
+
+- **Jumping Park** — kiosk-first digital consent platform with OTP validation and offline-safe flows.
+- **Riego Inteligente / LoteVivo** — offline-first smart irrigation PWA for agricultural monitoring.
+- **AI-assisted development workflows** — OpenCode, MCP, SDD and agentic tooling.
+
+---
+
 ## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🎢 Jumping Park
 
@@ -43,7 +51,7 @@ Digital consent for a trampoline park. Kiosk-first, OTP-validated, offline-safe.
 [→ Repo](https://github.com/danielxxomg/jumping_park_app)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🌱 Riego Inteligente
 
@@ -52,6 +60,17 @@ Smart irrigation PWA. Real-time sensors, offline-first, push notifications.
 **Stack:** TypeScript · Next.js · React · Firebase · Arduino/IoT
 
 [→ Repo](https://github.com/danielxxomg/uniminuto-riego-pwa)
+
+</td>
+<td width="33%">
+
+### 🧠 Cyberpunk Mermaid Visualizer
+
+AI-assisted Mermaid diagram editor and visualizer.
+
+**Stack:** TypeScript · Vite · Tailwind · Supabase
+
+[→ Repo](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer)
 
 </td>
 </tr>
@@ -63,60 +82,44 @@ Smart irrigation PWA. Real-time sensors, offline-first, push notifications.
 
 <div align="center">
 
-**Frontend**
+**Core Stack**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-**Backend & Infra**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-FF6B00?style=for-the-badge&logo=hono&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F767?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Turso](https://img.shields.io/badge/Turso-000?style=for-the-badge&logo=turso&logoColor=4FF8D2)
+![Hono](https://img.shields.io/badge/Hono-FF6B00?style=for-the-badge&logo=hono&logoColor=white)
 
-**Desktop & Mobile**
-
-![Tauri](https://img.shields.io/badge/Tauri_2-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-
-**Tools**
-
-![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Rolldown](https://img.shields.io/badge/Rolldown-FF6B00?style=for-the-badge&labelColor=0f172a)
-![Oxlint](https://img.shields.io/badge/Oxlint-000?style=for-the-badge&logo=oxlint&logoColor=FFA500)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Lightning CSS](https://img.shields.io/badge/Lightning_CSS-F9D72E?style=for-the-badge&labelColor=0f172a)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
-**Design**
-
-![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**System**
+**Systems & Tooling**
 
 ![CachyOS](https://img.shields.io/badge/CachyOS-000?style=for-the-badge&logo=archlinux&logoColor=FFA500)
 ![Hyprland](https://img.shields.io/badge/Hyprland-000?style=for-the-badge&logo=hyprland&logoColor=FFA500)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Exploring**
+
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri_2-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-4285F4?style=for-the-badge&labelColor=0f172a)
+![OpenCode](https://img.shields.io/badge/OpenCode-FF6B00?style=for-the-badge&labelColor=0f172a)
+![SDD](https://img.shields.io/badge/SDD-60A5FA?style=for-the-badge&labelColor=0f172a)
 
 </div>
-
----
-
-## Also Watching
-
-[MCP](https://github.com/modelcontextprotocol/servers) · [OpenCode](https://github.com/opencode-ai/opencode) · [Astro](https://github.com/withastro/astro) · [Pretext](https://github.com/chenglou/pretext) · [ArkType](https://github.com/arktypeio/arktype) · [Rspack](https://github.com/web-infra-dev/rspack) · [Base UI](https://github.com/mui/base-ui)
 
 ---
 
