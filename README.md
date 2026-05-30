@@ -136,7 +136,7 @@ AI-assisted Mermaid diagram editor and visualizer.
 
 ---
 
-## Outside Code
+## Now Playing
 
 <div align="center">
 
