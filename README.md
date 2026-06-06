@@ -48,7 +48,7 @@ Digital consent for a trampoline park. Kiosk-first, OTP-validated, offline-safe.
 
 **Stack:** Next.js 16 · Bun · Firebase · Zod · Playwright
 
-[→ Repo](https://github.com/danielxxomg/jumping_park_app) · [→ Live](https://www.jumpingpark.lat/) · [→ Case Study](docs/portfolio/CASE_STUDY.md)
+[→ Repo](https://github.com/danielxxomg/jumping_park_app) · [→ Live](https://www.jumpingpark.lat/) · [→ Case Study](https://github.com/danielxxomg/jumping_park_app/blob/main/docs/portfolio/CASE_STUDY.md)
 
 </td>
 <td width="33%">
@@ -59,7 +59,7 @@ Smart irrigation PWA. Real-time sensors, offline-first, push notifications.
 
 **Stack:** TypeScript · Next.js · React · Firebase · Arduino/IoT
 
-[→ Repo](https://github.com/danielxxomg/uniminuto-riego-pwa) · [→ Live](https://uniminuto-riego-pwa.vercel.app/) · [→ Case Study](docs/portfolio/CASE_STUDY.md)
+[→ Repo](https://github.com/danielxxomg/uniminuto-riego-pwa) · [→ Live](https://uniminuto-riego-pwa.vercel.app/) · [→ Case Study](https://github.com/danielxxomg/uniminuto-riego-pwa/blob/main/docs/portfolio/CASE_STUDY.md)
 
 </td>
 <td width="33%">
@@ -70,7 +70,7 @@ AI-assisted Mermaid diagram editor and visualizer.
 
 **Stack:** TypeScript · Vite · Tailwind · Supabase
 
-[→ Repo](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer) · [→ Live](https://cyberpunk-mermaid-visualizer.vercel.app/) · [→ Case Study](docs/portfolio/CASE_STUDY.md)
+[→ Repo](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer) · [→ Live](https://cyberpunk-mermaid-visualizer.vercel.app/) · [→ Case Study](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer/blob/main/docs/portfolio/CASE_STUDY.md)
 
 </td>
 </tr>
