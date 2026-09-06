@@ -60,21 +60,21 @@ $ cat /etc/about.conf
 </td>
 <td width="33%" valign="top">
 
-### 🧠 Cyberpunk Mermaid Visualizer
+### <img src="./assets/nebulosa.png" width="20" height="20" valign="middle" alt="Nebulosa" /> NebulosaBot
 
-> **AI-Assisted Architecture Flow Visualizer**
+> **Event-Driven Discord Platform & Dashboard**
 
-- **Problem:** Dynamic architecture modeling and fast visual validation for agentic pipelines.
-- **Architecture:** Real-time Mermaid AST parser, dark neon canvas engine, instant preview & export pipeline.
-- **Stack:** TypeScript · Vite · Tailwind · Supabase
+- **Problem:** Scalable community moderation, economy & ticketing requiring zero event-loop lag and instant cache invalidation.
+- **Architecture:** 7-layer Tach boundary enforcement, TTLCache with Supabase Realtime CDC sync, thread pooling & Next.js Server Actions.
+- **Stack:** Python 3.11 · Next.js · Supabase · PostgreSQL · Tach
 
-[→ Live App](https://cyberpunk-mermaid-visualizer.vercel.app/) · [→ Repo](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer) · [→ Case Study](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer/blob/main/docs/portfolio/CASE_STUDY.md)
+[→ Repo](https://github.com/danielxxomg/NebulosaBot) · [→ Architecture Docs](https://github.com/danielxxomg/NebulosaBot/tree/master/Diagramas) · [→ Specs](https://github.com/danielxxomg/NebulosaBot/tree/master/openspec)
 
 </td>
 </tr>
 </table>
 
-> ⚡ **Also building & exploring:** Contributing to agentic tooling, Spec-Driven Development (SDD) workflows, Model Context Protocol (MCP) integrations, and native Linux systems utilities ([bak-cli](https://github.com/danielxxomg/bak-cli), [commandgate](https://github.com/danielxxomg/commandgate)).
+> ⚡ **Systems & Agentic Tooling:** Creator of [bak-cli](https://github.com/danielxxomg/bak-cli) (Linux backup utility) and [commandgate](https://github.com/danielxxomg/commandgate) (CLI security gatekeeper). Active contributor to Spec-Driven Development (SDD) and Model Context Protocol (MCP) workflows.
 
 ---
 
