@@ -142,8 +142,8 @@ $ cat /etc/about.conf
 
 <div align="center">
 
-<a href="https://music.youtube.com/watch?v=SJidMDWPppI&si=iK_Y6DM0wbs4o0rY">
-  <img src="./assets/now-playing.svg" alt="Now Playing: BANG BANG BANG - Chainsaw Man" width="540" />
+<a href="https://now-playing-service.vercel.app/api/play">
+  <img src="https://now-playing-service.vercel.app/api/now-playing.svg" alt="Now Playing on YouTube Music" width="540" />
 </a>
 
 </div>
