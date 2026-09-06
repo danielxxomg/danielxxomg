@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=danielxxomg&fontSize=70&fontColor=FFA500&fontAlignY=38&desc=Full-Stack%20Builder%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=60&descSize=15&descColor=94a3b8&animation=fadeIn&fontFamily=Orbitron" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=2000&color=FFA500&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=TypeScript+%7C+Next.js+%7C+Vue%2FNuxt+%7C+Rust+%7C+IoT;Building+consent+platforms+%26+smart+irrigation+systems)](https://github.com/danielxxomg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=2000&color=FFA500&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=TypeScript+%7C+Next.js+%7C+Vue%2FNuxt+%7C+Rust+%7C+IoT;Building+resilient+consent+platforms+%26+offline-first+IoT+systems)](https://github.com/danielxxomg)
 
 ![](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&labelColor=0f172a)
 ![](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&labelColor=0f172a)
@@ -18,67 +18,67 @@ $ cat /etc/about.conf
 ╔══════════════════════════════════════════════════════════════╗
 ║  Name       : Daniel Bello                                   ║
 ║  Handle     : danielxxomg                                    ║
-║  Role       : Full-Stack Developer                           ║
+║  Role       : Full-Stack Developer & Systems Builder         ║
 ║  Location   : 🇨🇴 Colombia                                   ║
 ║  University : UNIMINUTO — Software Development               ║
-║  Focus      : Full-Stack · IoT · Performance                 ║
-║  OS         : CachyOS (Arch-based)                           ║
+║  Focus      : Full-Stack · Offline-First IoT · Performance   ║
+║  OS         : CachyOS (Arch Linux + Hyprland)                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## Currently Building
-
-- **Jumping Park** — kiosk-first digital consent platform with OTP validation and offline-safe flows.
-- **Riego Inteligente / LoteVivo** — offline-first smart irrigation PWA for agricultural monitoring.
-- **AI-assisted development workflows** — OpenCode, MCP, SDD and agentic tooling.
-
----
-
-## Featured Projects
+## Featured Engineering & Production Systems
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🎢 Jumping Park
 
-Digital consent for a trampoline park. Kiosk-first, OTP-validated, offline-safe.
+> **Digital Consent Platform for Commercial Kiosks**
 
-**Stack:** Next.js 16 · Bun · Firebase · Zod · Playwright
+- **Problem:** High-throughput visitor onboarding in noisy venue conditions requiring legal validation.
+- **Architecture:** Kiosk-first flow, resilient OTP verification, offline-safe local queuing & reconciliation.
+- **Stack:** Next.js 16 · Bun · Firebase · Zod · Playwright
 
-[→ Repo](https://github.com/danielxxomg/jumping_park_app) · [→ Live](https://www.jumpingpark.lat/) · [→ Case Study](https://github.com/danielxxomg/jumping_park_app/blob/main/docs/portfolio/CASE_STUDY.md)
-
-</td>
-<td width="33%">
-
-### 🌱 Riego Inteligente
-
-Smart irrigation PWA. Real-time sensors, offline-first, push notifications.
-
-**Stack:** TypeScript · Next.js · React · Firebase · Arduino/IoT
-
-[→ Repo](https://github.com/danielxxomg/uniminuto-riego-pwa) · [→ Live](https://uniminuto-riego-pwa.vercel.app/) · [→ Case Study](https://github.com/danielxxomg/uniminuto-riego-pwa/blob/main/docs/portfolio/CASE_STUDY.md)
+[→ Live App](https://www.jumpingpark.lat/) · [→ Repo](https://github.com/danielxxomg/jumping_park_app) · [→ Case Study](https://github.com/danielxxomg/jumping_park_app/blob/main/docs/portfolio/CASE_STUDY.md)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
+
+### 🌱 Riego Inteligente (LoteVivo)
+
+> **Offline-First Smart Irrigation PWA**
+
+- **Problem:** Environmental monitoring and automated irrigation under intermittent rural connectivity.
+- **Architecture:** Service worker caching, local sensor telemetry buffer, ESP32/Arduino integration, push notifications.
+- **Stack:** TypeScript · Next.js · React · Firebase · Arduino/IoT
+
+[→ Live App](https://uniminuto-riego-pwa.vercel.app/) · [→ Repo](https://github.com/danielxxomg/uniminuto-riego-pwa) · [→ Case Study](https://github.com/danielxxomg/uniminuto-riego-pwa/blob/main/docs/portfolio/CASE_STUDY.md)
+
+</td>
+<td width="33%" valign="top">
 
 ### 🧠 Cyberpunk Mermaid Visualizer
 
-AI-assisted Mermaid diagram editor and visualizer.
+> **AI-Assisted Architecture Flow Visualizer**
 
-**Stack:** TypeScript · Vite · Tailwind · Supabase
+- **Problem:** Dynamic architecture modeling and fast visual validation for agentic pipelines.
+- **Architecture:** Real-time Mermaid AST parser, dark neon canvas engine, instant preview & export pipeline.
+- **Stack:** TypeScript · Vite · Tailwind · Supabase
 
-[→ Repo](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer) · [→ Live](https://cyberpunk-mermaid-visualizer.vercel.app/) · [→ Case Study](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer/blob/main/docs/portfolio/CASE_STUDY.md)
+[→ Live App](https://cyberpunk-mermaid-visualizer.vercel.app/) · [→ Repo](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer) · [→ Case Study](https://github.com/danielxxomg/cyberpunk-mermaid-visualizer/blob/main/docs/portfolio/CASE_STUDY.md)
 
 </td>
 </tr>
 </table>
 
+> ⚡ **Also building & exploring:** Contributing to agentic tooling, Spec-Driven Development (SDD) workflows, Model Context Protocol (MCP) integrations, and native Linux systems utilities ([bak-cli](https://github.com/danielxxomg/bak-cli), [commandgate](https://github.com/danielxxomg/commandgate)).
+
 ---
 
-## Stack
+## Technical Stack & Tooling
 
 <div align="center">
 
@@ -100,7 +100,7 @@ AI-assisted Mermaid diagram editor and visualizer.
 ![Turso](https://img.shields.io/badge/Turso-000?style=for-the-badge&logo=turso&logoColor=4FF8D2)
 ![Hono](https://img.shields.io/badge/Hono-FF6B00?style=for-the-badge&logo=hono&logoColor=white)
 
-**Systems & Tooling**
+**Systems & Workstation**
 
 ![CachyOS](https://img.shields.io/badge/CachyOS-000?style=for-the-badge&logo=archlinux&logoColor=FFA500)
 ![Hyprland](https://img.shields.io/badge/Hyprland-000?style=for-the-badge&logo=hyprland&logoColor=FFA500)
@@ -111,7 +111,7 @@ AI-assisted Mermaid diagram editor and visualizer.
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Exploring**
+**Exploring & Architecture**
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri_2-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
@@ -123,14 +123,16 @@ AI-assisted Mermaid diagram editor and visualizer.
 
 ---
 
-## Stats
+## Engineering Activity & Stats
 
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=danielxxomg&theme=dark&hide_border=true&background=0f172a&stroke=FFA500&ring=FFA500&fire=ff6b6b&currStreakLabel=34d399&sideLabels=94a3b8&dates=94a3b8" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=danielxxomg&show_icons=true&theme=dark&bg_color=0f172a&hide_border=true&title_color=FFA500&icon_color=ff6b6b&text_color=e2e8f0" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielxxomg&layout=compact&theme=dark&bg_color=0f172a&hide_border=true&title_color=FFA500&text_color=e2e8f0" />
+<br/>
+
+<img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="./assets/top-langs.svg" alt="Top Languages" />
 
 </div>
 
@@ -141,10 +143,8 @@ AI-assisted Mermaid diagram editor and visualizer.
 <div align="center">
 
 <a href="https://music.youtube.com/watch?v=SJidMDWPppI&si=iK_Y6DM0wbs4o0rY">
-  <img src="https://img.youtube.com/vi/SJidMDWPppI/maxresdefault.jpg" alt="BANG BANG BANG - Chainsaw Man" width="420" style="border-radius: 8px;" />
+  <img src="./assets/now-playing.svg" alt="Now Playing: BANG BANG BANG - Chainsaw Man" width="540" />
 </a>
-
-**BANG BANG BANG** — Chainsaw Man · ft. @starxrayne & @JamsDX
 
 </div>
 

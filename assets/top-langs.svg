@@ -1,0 +1,49 @@
+<svg width="450" height="200" viewBox="0 0 450 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFA500; }
+    .lang-name { font: 500 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8fafc; }
+    .lang-pct { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94a3b8; }
+    .border { stroke: #334155; stroke-width: 1px; }
+    .bg { fill: #0f172a; }
+  </style>
+  <rect class="bg border" width="448" height="198" x="1" y="1" rx="10" />
+  <text x="25" y="38" class="header">Top Languages</text>
+  <g transform="translate(25, 65)">
+    
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="7" r="5" fill="#3572A5" />
+      <text x="20" y="11" class="lang-name">Python</text>
+      <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
+      <rect x="180" y="4" width="59" height="8" rx="4" fill="#3572A5" />
+      <text x="375" y="11" class="lang-pct">33.1%</text>
+    </g>
+    <g transform="translate(0, 26)">
+      <circle cx="6" cy="7" r="5" fill="#3178c6" />
+      <text x="20" y="11" class="lang-name">TypeScript</text>
+      <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
+      <rect x="180" y="4" width="59" height="8" rx="4" fill="#3178c6" />
+      <text x="375" y="11" class="lang-pct">32.9%</text>
+    </g>
+    <g transform="translate(0, 52)">
+      <circle cx="6" cy="7" r="5" fill="#00ADD8" />
+      <text x="20" y="11" class="lang-name">Go</text>
+      <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
+      <rect x="180" y="4" width="28" height="8" rx="4" fill="#00ADD8" />
+      <text x="375" y="11" class="lang-pct">16.0%</text>
+    </g>
+    <g transform="translate(0, 78)">
+      <circle cx="6" cy="7" r="5" fill="#f1e05a" />
+      <text x="20" y="11" class="lang-name">JavaScript</text>
+      <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
+      <rect x="180" y="4" width="19" height="8" rx="4" fill="#f1e05a" />
+      <text x="375" y="11" class="lang-pct">11.1%</text>
+    </g>
+    <g transform="translate(0, 104)">
+      <circle cx="6" cy="7" r="5" fill="#b07219" />
+      <text x="20" y="11" class="lang-name">Java</text>
+      <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
+      <rect x="180" y="4" width="7" height="8" rx="4" fill="#b07219" />
+      <text x="375" y="11" class="lang-pct">4.1%</text>
+    </g>
+  </g>
+</svg>
