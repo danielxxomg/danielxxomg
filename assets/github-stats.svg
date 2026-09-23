@@ -22,7 +22,7 @@
     <g transform="translate(0, 0)">
       <path class="icon" d="M10.5 0a5 5 0 0 0-4.9 4H1a1 1 0 0 0 0 2h4.6a5 5 0 0 0 9.8 0H20a1 1 0 1 0 0-2h-4.6A5 5 0 0 0 10.5 0zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4z" transform="scale(0.8)"/>
       <text x="24" y="12" class="stat-label">Total Commits (Year):</text>
-      <text x="220" y="12" class="stat-value">2,121</text>
+      <text x="220" y="12" class="stat-value">2,130</text>
     </g>
 
     <!-- Pull Requests -->
@@ -36,7 +36,7 @@
     <g transform="translate(0, 56)">
       <path class="icon" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm0 12a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm1-5.5a1 1 0 1 1-2 0v-3a1 1 0 1 1 2 0v3z" transform="scale(0.8)"/>
       <text x="24" y="12" class="stat-label">Issues Opened:</text>
-      <text x="220" y="12" class="stat-value">79</text>
+      <text x="220" y="12" class="stat-value">81</text>
     </g>
 
     <!-- Contributed To -->

@@ -29,14 +29,14 @@
       <text x="20" y="11" class="lang-name">Go</text>
       <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
       <rect x="180" y="4" width="32" height="8" rx="4" fill="#00ADD8" />
-      <text x="375" y="11" class="lang-pct">18.1%</text>
+      <text x="375" y="11" class="lang-pct">18.0%</text>
     </g>
     <g transform="translate(0, 78)">
       <circle cx="6" cy="7" r="5" fill="#f1e05a" />
       <text x="20" y="11" class="lang-name">JavaScript</text>
       <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
       <rect x="180" y="4" width="16" height="8" rx="4" fill="#f1e05a" />
-      <text x="375" y="11" class="lang-pct">9.3%</text>
+      <text x="375" y="11" class="lang-pct">9.4%</text>
     </g>
     <g transform="translate(0, 104)">
       <circle cx="6" cy="7" r="5" fill="#b07219" />
