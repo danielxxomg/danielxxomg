@@ -15,7 +15,7 @@
       <text x="20" y="11" class="lang-name">Python</text>
       <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
       <rect x="180" y="4" width="66" height="8" rx="4" fill="#3572A5" />
-      <text x="375" y="11" class="lang-pct">37.0%</text>
+      <text x="375" y="11" class="lang-pct">36.9%</text>
     </g>
     <g transform="translate(0, 26)">
       <circle cx="6" cy="7" r="5" fill="#3178c6" />
@@ -29,7 +29,7 @@
       <text x="20" y="11" class="lang-name">Go</text>
       <rect x="180" y="4" width="180" height="8" rx="4" fill="#1e293b" />
       <rect x="180" y="4" width="36" height="8" rx="4" fill="#00ADD8" />
-      <text x="375" y="11" class="lang-pct">20.3%</text>
+      <text x="375" y="11" class="lang-pct">20.5%</text>
     </g>
     <g transform="translate(0, 78)">
       <circle cx="6" cy="7" r="5" fill="#f1e05a" />
